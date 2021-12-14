@@ -1,0 +1,21 @@
+.box1,
+.box2,
+.box3 {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 1rem;
+}
+
+.box1 {
+  background: red;
+}
+.box2 {
+  background: blue;
+}
+.box3 {
+  background: green;
+}
+
+[v-cloak] {
+  display: none;
+}
